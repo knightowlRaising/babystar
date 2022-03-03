@@ -1,7 +1,7 @@
 name: babystar
 description: A new Flutter project.
-version: 0.0.1
-homepage:
+version: 0.0.3
+homepage: https://github.com/knightowlRaising/babystar.git
 
 environment:
   sdk: ">=2.16.1 <3.0.0"

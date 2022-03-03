@@ -69,7 +69,7 @@ class _BabystarState extends State<Babystar> {
           const SVGWidget(
             height: 300,
             width: 300,
-            path: 'assets/starr/bg-01.svg',
+            path: 'assets/bg-01.svg',
             enableColor: false,
           ),
           if (star1.toInt() != 0)
